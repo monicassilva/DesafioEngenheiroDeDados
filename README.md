@@ -1,6 +1,6 @@
 # DesafioEngenheiroDeDados
 
-Questões Teoricas
+Teste de processo seletivo feito em Python
 
 Qual o objetivo do comando cache em Spark?
 Armazena um resultado salvo em memória
